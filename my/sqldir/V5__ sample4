@@ -1,9 +1,0 @@
-create table PERSONs  (
-    ID int not null,
-    NAME varchar(100) not null
-);
-
-insert into PERSONs (ID, NAME) values (1, 'Axel');
-insert into PERSONs (ID, NAME) values (2, 'Mr. Foo');
-insert into PERSONs (ID, NAME) values (3, 'Ms. Bar');
-insert into PERSONs (ID, NAME) values (3, 'Ms. Bard');
