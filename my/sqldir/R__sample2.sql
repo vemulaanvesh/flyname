@@ -1,6 +1,6 @@
 
 
-CREATE TABLE [IF NOT EXISTS]  anvesh
+CREATE TABLE [IF NOT EXISTS] anvesh
 (
  id INT NOT NULL,
  name varchar(45)
