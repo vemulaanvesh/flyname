@@ -1,12 +1,12 @@
 
 
-CREATE TABLE not exists anvesh
+CREATE TABLE [IF NOT EXISTS]  anvesh
 (
  id INT NOT NULL,
  name varchar(45)
 );
 
-CREATE TABLE  not exists lenin
+CREATE TABLE [IF NOT EXISTS] lenin
 (
  id INT NOT NULL,
  name varchar(45)
