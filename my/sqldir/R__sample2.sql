@@ -6,7 +6,7 @@ IF NOT EXISTS (SELECT * FROM flyway1.dbo.anvesh)
      name varchar(45));
 
 IF NOT EXISTS (SELECT * FROM flyway1.dbo.lenin)
-    CREATE TABLE anvesh (
+    CREATE TABLE lenin (
      id INT NOT NULL,
      name varchar(45));
 
